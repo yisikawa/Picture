@@ -10,6 +10,7 @@ __pycache__/
 .Python
 data/
 movie/
+seach/
 build/
 develop-eggs/
 dist/
